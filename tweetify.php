@@ -7,6 +7,8 @@
  *
  * Based on revision 46:
  * http://code.google.com/p/twitterjs/source/detail?spec=svn46&r=46
+ *
+ * Forked from https://github.com/fiveminuteargument/tweetify
  */
 
 
